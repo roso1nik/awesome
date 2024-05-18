@@ -20,7 +20,7 @@
 
 
 ## Roadmap
-- [roadmap.sh](https://roadmap.sh/ )- готовые дорожные карты для изучения чего угодно
+- [roadmap.sh](https://roadmap.sh/)- готовые дорожные карты для изучения чего угодно
 - [Data Structures & Algorithms](https://neetcode.io/roadmap)- роадмап по алгоритмам
 
 ## OnlineIDE
@@ -63,6 +63,7 @@
 - [Курс Озеровой SQL](https://stepik.org/course/63054/) - если не самый лучший курс с практикой
 - [SQL Аналитика](https://karpov.courses/simulator-sql) - sql аналитика(практика)
 - [Диаграммы онлайн](https://app.diagrams.net/) - построить диаграмму БД онлайн
+
 ## JavaScript
 - [learn.javascript.ru](https://learn.javascript.ru/) - лучший учебник по JS
 - [doka.guide](https://doka.guide/) - все про веб
