@@ -4,19 +4,19 @@
 `Обновлено: 18.05.24`
 
 ### Содержание
-- [Roadmaps](#Roadmap)
-- [Online IDE](#OnlineIDE)
-- [Тут собрано про всё](#Тутвсё)
-- [Книги](#Книги)
+- [Roadmaps](#roadmap)
+- [Online IDE](#onlineIDE)
+- [Тут собрано про всё](#тутвсё)
+- [Книги](#книги)
 - [Git](#git)
-- [Linux](#Linux)
-- [Go](#Go)
-- [Docker](#Docker)
-- [Network](#Network)
-- [SQL](#SQL)
-- [JavaScript](#JavaScript) + все про web dev
-- [API](#API)
-- [Python](#Python)
+- [Linux](#linux)
+- [Go](#go)
+- [Docker](#docker)
+- [Network](#network)
+- [SQL](#sql)
+- [JavaScript](#javascript) + все про web dev
+- [API](#api)
+- [Python](#python)
 
 
 ## Roadmap
