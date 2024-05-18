@@ -55,7 +55,7 @@
 - [go book](http://golang-book.ru/) - книга, более направленная на ООП
 
 ## Docker
--[Docker](https://karpov.courses/docker) - базовый курс по докеру
+- [Docker](https://karpov.courses/docker) - базовый курс по докеру
 
 ## SQL
 - [sql-ex](https://sql-ex.ru/) - задачки по sql
