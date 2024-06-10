@@ -1,0 +1,4 @@
+# https://www.robotstxt.org/robotstxt.html
+# https://yandex.ru/support/webmaster/controlling-robot/robots-txt.html
+# User-agent: Yandex
+# Disallow:
