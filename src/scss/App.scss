@@ -1,0 +1,65 @@
+// @import "./libs/variables";
+
+body {
+    padding: 1rem 0;
+}
+
+.MuiChip-label {
+    cursor: pointer;
+}
+
+*::selection {
+    background-color: #e0e7ff;
+}
+
+html {
+    svg path {
+        color: #000000b0 !important;
+        fill: #000000b0 !important;
+    }
+
+    .MuiChip-label {
+        color: #000000b0 !important;
+    }
+}
+html.tw-dark {
+    svg path {
+        color: #ffffffb0 !important;
+        fill: #ffffffb0 !important;
+    }
+
+    .MuiChip-label {
+        color: #ffffffb0 !important;
+    }
+
+    .fix-svg * {
+        color: #000000b0 !important;
+        fill: #000000b0 !important;
+    }
+}
+
+.reset-text {
+    h1 {
+        font-size: 32px;
+        font-weight: 800;
+    }
+
+    h2 {
+        font-size: 24px;
+        font-weight: 700;
+    }
+
+    h3 {
+        font-size: 18px;
+        font-weight: 600;
+    }
+
+    a {
+        color: #4f46e5;
+        text-decoration: underline;
+
+        &:hover {
+            color: #312e81;
+        }
+    }
+}

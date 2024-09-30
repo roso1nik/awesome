@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import "./_normalize.scss";
+@import "../App.scss";
+
+// TO REMOVE
+// @import "./_variables.scss";
+// @import "./pre-styles.scss";
+
+@layer components {
+    .note {
+        @apply tw-text-notecolor;
+    }
+    .notedark {
+        @apply tw-text-notecolor-dark;
+    }
+
+    .container {
+        border-radius: 20px;
+        padding: 1rem 2rem;
+        @apply tw-w-full tw-bg-gradient-to-r tw-from-indigo-600 tw-to-indigo-300 tw-text-primarycolor-dark;
+    }
+    .text-container {
+        border-radius: 20px;
+        padding: 1rem 2rem;
+        @apply tw-w-full tw-bg-slate-100 tw-text-primarycolor dark:tw-bg-neutral-900 dark:tw-text-primarycolor-dark;
+    }
+
+    .buttondef {
+        @apply tw-py-2 tw-text-sm tw-font-medium tw-px-4 tw-rounded-lg tw-text-white tw-bg-indigo-600;
+
+        &:hover {
+            @apply tw-bg-indigo-800;
+        }
+    }
+    .button-git {
+        @apply tw-bg-amber-500 hover:tw-bg-amber-600;
+    }
+
+    .titlemain {
+        @apply tw-text-indigo-800 dark:tw-text-indigo-600;
+        margin-bottom: 1rem !important;
+    }
+}

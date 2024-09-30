@@ -1,0 +1,84 @@
+@import "./variables.scss";
+@import "./normalize.scss";
+@import "../App.scss";
+
+/* OTHER */
+
+.note,
+.note * {
+    color: $colornote !important;
+    text-decoration-color: $colornote !important;
+}
+.notedark,
+.nordark * {
+    color: $colornotedark !important;
+    text-decoration-color: $colornotedark !important;
+}
+
+.flex {
+    display: flex !important;
+}
+.flex-row {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.flex-column {
+    display: flex;
+    flex-direction: column;
+}
+.flex-column-important {
+    display: flex !important;
+    flex-direction: column !important;
+}
+.jcsb {
+    justify-content: space-between;
+}
+.jcc {
+    justify-content: center;
+}
+.acc {
+    align-content: center;
+}
+.acsb {
+    align-content: space-between;
+}
+.jcfs {
+    justify-content: flex-start;
+}
+.jcfe {
+    justify-content: flex-end;
+}
+.gap-0 {
+    gap: 0.5rem;
+}
+.gap-1 {
+    gap: 1rem;
+}
+.gap-2 {
+    gap: 2rem;
+}
+.gap-24px {
+    gap: 24px;
+}
+.w40 {
+    width: 40%;
+}
+.w50 {
+    width: 50%;
+}
+.w100 {
+    width: 100%;
+}
+.aifs {
+    align-items: flex-start;
+}
+.aic {
+    align-items: center;
+}
+.wrap {
+    flex-wrap: wrap;
+}
+.nowrap {
+    flex-wrap: nowrap;
+}
